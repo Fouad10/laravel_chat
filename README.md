@@ -1,5 +1,5 @@
-# Laravel 7 - Realtime Chat Application
-You can watch the serie on my YouTube channel via this link 👉 دورة تعلم ﻻرافيل 7 | Learn Laravel 7
+# Laravel  Chat Application
+You can watch the serie 
 
 ## Instructions
 To see the course files, make sure you select the appropriate branch. E.g. to see lesson 7 code you would select the lesson-7 branch. Happy coding :)
